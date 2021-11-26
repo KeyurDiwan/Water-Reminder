@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/drawable/graph_fill_gradiant.xml" value="0.1" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/drawable/ic_30_minutes.xml" value="0.1" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/drawable/ic_45_minutes.xml" value="0.1" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/drawable/ic_60_minutes.xml" value="0.1" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/drawable/ic_app_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/drawable/ic_arrow_circle_left_solid.xml" value="0.1" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/drawable/ic_arrow_circle_right_solid.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/drawable/ic_bell.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/drawable/ic_bell_disabled.xml" value="0.1" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/drawable/ic_body_weight.xml" value="0.1" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/drawable/textinput_bg.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/drawable/walk_through_button_bg.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/layout/activity_init_user_info.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/layout/activity_main.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/layout/activity_stats.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/layout/activity_walk_through.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/layout/bottom_sheet_fragment.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/layout/custom_input_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/layout/walk_through_one.xml" value="0.1" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/layout/walk_through_three.xml" value="0.25" />
+        <entry key="..\:/Users/Keyur Diwan/Downloads/AquaDroid-master/AquaDroid-master/app/src/main/res/layout/walk_through_two.xml" value="0.18697916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
